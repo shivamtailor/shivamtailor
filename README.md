@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamtailor" alt="shivamtailor" /> </p>
 
-### 🔭 7+ years of exprience on 
+### 🔭 7+ years of exprience in 
 - SugarCRM
 - Backbone.js
 - Underscore.js
