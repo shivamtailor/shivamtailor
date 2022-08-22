@@ -15,6 +15,8 @@
 ### 🌱 Learning
 - Laravel
 - Vue.js
+- ReactJS
+- NodeJS
 
 ### 📫 How to reach me:
 - LinkedIn: <a href = "https://www.linkedin.com/in/shivamtailor">shivamtailor</a>
