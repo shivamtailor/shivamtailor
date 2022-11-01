@@ -24,12 +24,15 @@
 - Blog: <a href = "https://tailorshivam.wordpress.com">tailorshivam.wordpress.com</a>
 
 <p align="left">
+	<img src="https://github.com/devicons/devicon/blob/master/icons/salesforce/salesforce-original.svg" alt="salesforce" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="php" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="70"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="linux" width="70" height="70"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="nginx" width="70" height="70"/> 
 	<img src="https://avatars0.githubusercontent.com/u/60142" alt="sugarcrm" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="70" height="70"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/codeigniter/codeigniter-plain.svg" alt="codeigniter" width="70" height="70"/>
+	<img src="https://github.com/devicons/devicon/blob/master/icons/cakephp/cakephp-original.svg" alt="codeigniter" width="70" height="70"/>
 	<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="70" height="70"/> 
@@ -41,6 +44,11 @@
 	<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="70" height="70"/> 
 	<img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original-wordmark.svg" alt="redhat" width="70" height="70"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="vscode" width="70" height="70"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="bash" width="70" height="70"/> 
+	<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="70" height="70"/> 
+	
+	
 </p>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shivamtailor&show_icons=true" alt="shivamtailor" /> </p>
